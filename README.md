@@ -13,4 +13,4 @@ Clone the repository:
 ```bash
 git clone https://github.com/sladeac/guessing-game.git
 cd guessing-game
-https://roadmap.sh/projects/guessing-game
+https://roadmap.sh/projects/number-guessing-game
